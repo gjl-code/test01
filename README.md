@@ -5,4 +5,4 @@
 
 然后再pycharm中写代码，写完之后点击添加、提交、推送，就可以推送到github仓库。
 
-![image-20261027163120154](C:\Users\gjl\AppData\Roaming\Typora\typora-user-images\image-20261027163120154.png)
+![image-20261027163402280](C:\Users\gjl\AppData\Roaming\Typora\typora-user-images\image-20261027163402280.png)
